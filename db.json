@@ -1,4 +1,5 @@
-[
+{
+    "memes":[
     {
         "id":1,
         "meme":"https://www.memezero.com/media/memes/1558.jpg",
@@ -24,3 +25,4 @@
         
     }
 ]
+}
